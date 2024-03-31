@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Limbo415
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning ...
-- 📫 How to reach me =>telegram:@Limbo_saeed
+- 📫 How to reach me =>https://t.me/Limbo_saeed
 - email:saeed.mohammadi.1384@gmail.com
 
 <!---
