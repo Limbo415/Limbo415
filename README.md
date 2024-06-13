@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Limbo415
-- 👀 I’m interested in coding
+- 👋 Hi, I’m Blue developer
+- 👀 I’m interested in Front-end development
+
 - 🌱 I’m currently learning ...
 - 📫 How to reach me =>https://t.me/Limbo_saeed
 - email:saeed.mohammadi.1384@gmail.com
