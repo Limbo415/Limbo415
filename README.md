@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Blue Developer
+- 👋 Hi, I’m Saeed
 - 👀 I’m interested in Front-end development
 
 - 🌱 I’m currently learning ...
